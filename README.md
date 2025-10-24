@@ -10,7 +10,7 @@
 </p>
 
 ## <h1 align="center">👨‍💻 Hey there, I'm Rohit Potdar</h1>
-<h3 align="center">3rd Year CSE • Web Dev & Coding Enthusiast • Karmayogy Institute of Technology, Pandharpur</h3>
+<h3 align="center">3rd Year CSE • Web Dev & Coding Enthusiast • Karmayogi Institute of Technology Shelve , Pandharpur</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Web+Dev+%7C+C+%26+JavaScript+Coder;DSA+Learner+%7C+Problem+Solver;Hardworking+%26+Passionate+Student" alt="Typing SVG" />
@@ -47,7 +47,8 @@
 ### 📂 Projects
 - 🔐 **Password-Based Door Lock System** – Security project with 8051 microcontroller & keypad  
 - 📱 **QR Code Scanner/Generator** – Web app for scanning & generating QR codes  
-- 🌳 **DS Visualizer** – JavaScript tool to visualize stacks, queues & trees  
+- 🌳 **DS Visualizer** – JavaScript tool to visualize stacks, queues & trees
+- 
 
 ---
 
@@ -73,6 +74,8 @@
   🔗 LinkedIn: [Rohit Potdar](https://www.linkedin.com/in/mr-rohit-potdar-830ba6282)  
   
   📸 Instagram: [@rohit_potdar_3434](https://www.instagram.com/rohit_potdar_3434)  
+    
+  🌐 website: http://deal-compare-rohitpotdar45.replit.app/  
 </p>
 
 ---
